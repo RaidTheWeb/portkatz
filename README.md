@@ -87,3 +87,7 @@ Creating A Bare-Bones DNS-Based Reverse Shell
 ![dns_reverseshell](./images/2.png)
 
 **NOTE:** The Examples Photos we're taken on a Shared Victim-Server. PortKatz Hardware Specifications *are* somewhat accurate.
+
+## Documentation
+
+[PortKatz-Docs](https://github.com/RaidTheWeb/portkatz/wiki)
