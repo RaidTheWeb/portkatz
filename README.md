@@ -78,3 +78,10 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ```
+
+
+## Example Of Use
+
+Creating A Bare-Bones DNS-Based Reverse Shell
+
+![dns_reverseshell](./images/example.png)
