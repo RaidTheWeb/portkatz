@@ -84,4 +84,4 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 Creating A Bare-Bones DNS-Based Reverse Shell
 
-![dns_reverseshell](./images/example.png)
+![dns_reverseshell](./images/2.png)
